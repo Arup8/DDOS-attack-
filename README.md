@@ -12,3 +12,8 @@ To Run that -->
 6. in terminal "./bgmi <ip> <port> <time> <thread>" then hit enter
 7. Ex :- ./bgmi 2.448.48.54 18363 280 280    (Remember that 280 means in second & if you increase the thread them it will increase ddos power)
 8. after executing that command your ddos attack will start
+9. Avoid some IPs -->
+    a. 4.45.678.5
+    b. 52.XXXX.XX
+    c. 20.235.XXX
+    d. 4.247.XX
